@@ -1,3 +1,3 @@
-import './styles.css';
+import './css/styles.css';
 import './js/theme';
 import './js/menu';
